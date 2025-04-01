@@ -13,7 +13,6 @@ Original file is located at
 
 # Importing Libraries
 import pandas as pd
-
 # Load dataset
 sales = pd.read_excel("sales_data.xlsx")
 
