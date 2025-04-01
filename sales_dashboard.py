@@ -224,8 +224,6 @@ print(model.predict([[3000, 150]]))  # Lower marketing, moderate customers
 print(model.predict([[7000, 250]]))  # Higher marketing & customer count
 print(model.predict([[5000, 300]]))  # More customers, same marketing
 
-pip install streamlit
-
 import streamlit as st
 import pandas as pd
 import numpy as np
